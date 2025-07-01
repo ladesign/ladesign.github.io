@@ -1,0 +1,4 @@
+---
+description: 'Description of the custom chat mode.'
+tools: [ 'tool1', 'tool2' ]
+---
