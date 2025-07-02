@@ -2,3 +2,4 @@
 description: 'Description of the custom chat mode.'
 tools: [ 'tool1', 'tool2' ]
 ---
+「原始檔控制Checkout」功能_同步變更處理_同步時檔案衝突測試
